@@ -1,0 +1,1 @@
+When you copy and paste text, the terminal does it : you're taking the text that the terminal displays and not the text that is in your emacs app. That's why you have to use terminal keybindings : Ctrl-Shift-C and Ctrl-Shift-V to copy and paste text.
